@@ -1,3 +1,5 @@
+fengjixiong 正在翻译！
+
 iWant – The Decentralized Peer To Peer File Sharing Commandline Application
 ======
 
